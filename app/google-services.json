@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979993896247",
+    "project_id": "health-cdbab",
+    "storage_bucket": "health-cdbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979993896247:android:10e230dd5e67eaeec226b2",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979993896247-vb72k38ir6ev41i14mf4bhfik4t6drl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health",
+            "certificate_hash": "3fe6355098a0f1de2749a59cfa844073b91cb880"
+          }
+        },
+        {
+          "client_id": "979993896247-hhmnvf0hpum2fifvdueb9f50750ndvo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vM5i3WuTtFt9GyeDt65GmNeOlQh-fnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979993896247-hhmnvf0hpum2fifvdueb9f50750ndvo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

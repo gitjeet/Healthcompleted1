@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Health</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_kg">%d KG</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="add_image_description_string">add an image message</string>
+    <string name="message_hint_string">message</string>
+    <string name="send_button_string">send</string>
+    <string name="google_sign_in_string">Sign in with Google</string>
+    <string name="sign_out_string">sign out</string>
+    <string name="message_text_view_string">message text view</string>
+    <string name="messenger_text_view_string">messenger text</string>
+    <string name="image_description">image desc</string>
+    <string name="invitation_title">chat app invite</string>
+    <string name="invite_message">Please join me for a chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="invite_string">invite</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="upload_data_string">Upload data</string>
+    <string name="title_activity_selction_">Selction_Activity</string>
+    <string name="profession">What is Your Profession ?</string>
+    <string name="USER">User</string>
+    <string name="DOCTOR">Doctor</string>
+    <string name="Dietian">Dietitian</string>
+    <string name="user_desc">This USer Image</string>
+    <string name="doctor_img_desc">This Doctor Image Description</string>
+    <string name="dietian">This is Dietian Description</string>
+    <string name="btn_next">Next</string>
+</resources>
